@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "My first post",
+      "description": "This is my first post",
+      "createdAt": "2000-01-14T07:00:01.879Z",
+      "id": 4
+    },
+    {
+      "title": "My first post",
+      "description": "This is my first post",
+      "createdAt": "2000-01-14T07:00:01.879Z",
+      "id": 5
+    },
+    {
+      "title": "Hello mew post",
+      "description": "Hello post desc",
+      "createdAt": "2023-08-30T16:49:47.593Z",
+      "id": 6
+    }
+  ]
+}
